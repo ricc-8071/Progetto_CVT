@@ -1,0 +1,7 @@
+-  Folder EEG_raw:  contains raw EEG data (.cnt file) collected with Neuroscan device and a jupyter notebook file giving example code to load the data. Raw data are named in "subjectID_sessionID_date.cnt" format. For example, "1_1_20180804.cnt" means that this is the raw data of the first subject and first session. **Notice: session number are given based on the stimuli materials watched, not based on the time.**
+
+- File trial_start_end_timestamp.txt: contains start and end time of stimuli movie clips.
+
+- File emotion_label_and_stimuli_order.xlsx: contains emotion labels and stimuli orders.
+
+- File Scores.xlsx: contains feedback scores of participants.
