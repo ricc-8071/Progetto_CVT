@@ -1,0 +1,3 @@
+model,window_seconds,resample_freq,test_loss,test_accuracy,trained_in_this_run
+1D-CNN,1.5,250.0,0.8712810277938843,0.6588021516799927,True
+2D-CNN,1.5,250.0,0.6386145949363708,0.7813067436218262,True
