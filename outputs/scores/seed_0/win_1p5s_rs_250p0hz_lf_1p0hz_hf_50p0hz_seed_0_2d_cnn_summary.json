@@ -1,0 +1,11 @@
+{
+  "model": "2D-CNN 1.5s rs=250.0",
+  "random_state": 0,
+  "test_loss": 0.7780858874320984,
+  "test_accuracy": 0.7055354118347168,
+  "n_test_samples": 2204,
+  "classification_report_csv": "outputs\\scores\\seed_0\\win_1p5s_rs_250p0hz_lf_1p0hz_hf_50p0hz_seed_0_2d_cnn_classification_report.csv",
+  "predictions_csv": "outputs\\scores\\seed_0\\win_1p5s_rs_250p0hz_lf_1p0hz_hf_50p0hz_seed_0_2d_cnn_predictions.csv",
+  "confusion_matrix_counts_csv": "outputs\\confusion_matrices\\seed_0\\win_1p5s_rs_250p0hz_lf_1p0hz_hf_50p0hz_seed_0_2d_cnn_confusion_matrix_counts.csv",
+  "confusion_matrix_normalized_csv": "outputs\\confusion_matrices\\seed_0\\win_1p5s_rs_250p0hz_lf_1p0hz_hf_50p0hz_seed_0_2d_cnn_confusion_matrix_normalized.csv"
+}
